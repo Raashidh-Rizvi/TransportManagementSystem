@@ -16,12 +16,12 @@ public class TransportApp {
 
 
         bus.start();
-        System.out.println();
+
         bus.displayDetails();
         System.out.println();
 
         Truck.start();
-        System.out.println();
+
         Truck.displayDetails();
 
 
